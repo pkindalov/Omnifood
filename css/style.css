@@ -48,7 +48,6 @@
 
 */
 
-
 /* Initial CSS setup */
 * {
   margin: 0;
@@ -70,3 +69,14 @@ body {
   color: #555;
 }
 /* End of the initial CSS setup */
+
+.hero {
+  max-width: 130rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 auto;
+}
+
+.hero-image {
+  width: 100%;
+}
