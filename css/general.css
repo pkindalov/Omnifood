@@ -44,7 +44,8 @@
 
 
   --- 04 BORDER-RADIUS
-      Default 9px
+      Default: 9px
+      Medium: 11px
 
 
 
@@ -187,4 +188,8 @@ body {
 
 .margin-right-sm {
   margin-right: 1.6rem !important;
+}
+
+strong {
+  font-weight: 500;
 }
